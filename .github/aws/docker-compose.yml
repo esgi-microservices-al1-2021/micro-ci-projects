@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  microci-projects:
+    image: esgimicroci2021/al1-projects:latest
+    restart: always
